@@ -9,3 +9,6 @@ return string.toLowerCase()
 function sayHelloToGrandma() {
   console.log("Hello, Grandma!")
 }
+var uppercase= "HELLO!"
+var lowercase= "hello!"
+var mixedCase= 'Hi there!'

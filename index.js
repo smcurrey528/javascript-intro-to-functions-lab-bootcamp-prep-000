@@ -17,3 +17,11 @@ function sayHitoGrandma(string) {
     return "I love you, too.";
   }
 }
+function logShout(string){
+  console.log(string.toUpperCase())
+  }
+function logWhisper(string){
+  console.log(string.toLowerCase())
+}
+  
+  

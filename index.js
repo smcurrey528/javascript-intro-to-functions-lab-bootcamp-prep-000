@@ -1,5 +1,5 @@
 function shout(string) {
-  console.log('YES INDEED!')
+  console.log('Yes indeed!')
 return string.toUpperCase()
   }
 function whisper(string) {
